@@ -46,7 +46,7 @@ Latihan List atau Array
     Log    Isi mobil adalah ${mobil}    console=${TRUE}
 
 Banyak isi
-    [Tags]    this
+    [Tags]    disabled
     ${negara}    Create List    indonesia
     Log    Isi dari list ${negara}    console=${TRUE}
 
