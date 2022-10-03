@@ -10,6 +10,7 @@ Generate Test Case
     [Documentation]     ${deftestdata} = valid | invalid | blank | none | 0 | numeric
     ...                 E | e | alphabet | alphanumeric | decimal | specialchars | freetext | boolean
     ...                 RUNNER: robot -d Results --include data_matrix_generator test/
+    ...                 Tutorial on YouTube: https://www.youtube.com/watch?v=ijDck6Wh1tQ
     [Tags]              data_matrix_generator
     ${file_path}=       Set Variable    ${EXECDIR}/FILE/trial.csv
     Remove File From Path   ${file_path}
