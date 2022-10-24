@@ -51,3 +51,7 @@ deactivate
 ```text
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 ```
+
+## Tutorial on YouTube Playlist
+
+The [YouTube Playlist](https://www.youtube.com/watch?v=BurpUlL2Zts&list=PL-qVBFEFWYIzHPA2w1Zvm4use0aXIO8a7) is available
